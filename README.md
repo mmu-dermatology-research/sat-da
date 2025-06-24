@@ -17,7 +17,7 @@ SAT-DA also introduces two new loss components alongside the standard classifica
 
 - Diversity loss to make sure the model uses a wide range of features instead of relying on just a few.
 
-These changes help the model focus on domain-invariant, diagnostic information while avoiding overfitting to noisy or irrelevant patterns. Compared to existing supervised and unsupervised domain adaptation methods, SAT-DA shows much better performance across several datasets. It also generalises well to unseen data, making it more reliable for real-world clinical settings.
+These changes help the model focus on domain-invariant, diagnostic information while avoiding overfitting to noisy or irrelevant patterns. Compared to existing supervised and unsupervised domain adaptation methods, SAT-DA shows significantly improved performance across multiple datasets. For instance, on the Derm7pt-Derm to Derm7pt-Clinic shift, SAT-DA achieved an AUROC of 82.46%, surpassing the strongest baseline by over 6%. It also maintains strong performance on unseen datasets, demonstrating robust cross-domain generalisation and making the method more reliable for real-world clinical deployment.
 
 # Dataset 
 - ISIC 2017
