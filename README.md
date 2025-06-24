@@ -9,9 +9,9 @@ The key mechanism in SAT-DA is its dynamic feature selection. It calculates how 
 
 SAT-DA also introduces two new loss components alongside the standard classification loss:
 
-Alignment loss to bring the average features of both domains closer together.
+- Alignment loss to bring the average features of both domains closer together.
 
-Diversity loss to make sure the model uses a wide range of features instead of relying on just a few.
+- Diversity loss to make sure the model uses a wide range of features instead of relying on just a few.
 
 These changes help the model focus on domain-invariant, diagnostic information while avoiding overfitting to noisy or irrelevant patterns. Compared to existing supervised and unsupervised domain adaptation methods, SAT-DA shows much better performance across several datasets. It also generalises well to unseen data, making it more reliable for real-world clinical settings.
 
