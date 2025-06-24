@@ -7,7 +7,7 @@ For more details, the full paper will be available soon.
 
 ## Authors: Nurjahan Sultana, Wenqi Lu, Xinqi Fan, and Moi Hoon Yap
 
-This paper, accepted at the MICCAI 2025 conference, introduces a new method called Selective Alignment Transfer for Domain Adaptation (SAT-DA), a supervised method for skin lesion analysis. The main goal is to improve how deep learning models handle the domain shift between dermoscopic images (taken under controlled conditions) and clinical images (which are more varied in lighting, angles, and quality).
+This paper, introduces a new method called Selective Alignment Transfer for Domain Adaptation (SAT-DA), a supervised method for skin lesion analysis. The main goal is to improve how deep learning models handle the domain shift between dermoscopic images (taken under controlled conditions) and clinical images (which are more varied in lighting, angles, and quality).
 
 The key mechanism in SAT-DA is its dynamic feature selection. It calculates how important each feature is by comparing the average features from both domains and uses a small neural network to assign a weight to each feature channel. Features that are common and helpful in both domains are kept, while domain-specific noise is reduced. These weighted features are then used for classification.
 
