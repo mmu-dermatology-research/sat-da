@@ -1,5 +1,5 @@
 # Full Paper Link
-https://link.springer.com/chapter/10.1007/978-3-032-04978-0_57
+https://papers.miccai.org/miccai-2025/paper/2099_paper.pdf
 DOI: 10.1007/978-3-032-04978-0_57
 
 # SAT-DA Architecture
