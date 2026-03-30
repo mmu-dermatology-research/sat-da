@@ -1,6 +1,6 @@
 # Full Paper Link
 https://papers.miccai.org/miccai-2025/paper/2099_paper.pdf
-DOI: 10.1007/978-3-032-04978-0_57
+DOI: [10.1007/978-3-032-04978-0_57](https://doi.org/10.1007/978-3-032-04978-0_57)
 
 # SAT-DA Architecture
 <img width="612" alt="image" src="https://github.com/user-attachments/assets/18317d8a-d6e1-4d16-bbec-2373cff1fbf8" />
@@ -48,4 +48,19 @@ Ablation studies were conducted to evaluate the individual contribution of:
 - Alignment loss
 
 - Diversity loss
+
+### 📚 Citation
+
+If you use any of the concepts or code from this repository, please consider citing our paper:
+
+```bibtex
+@InProceedings{Sultana_MICCAI_2025,
+  author    = {Sultana, Nurjahan and Lu, Wenqi and Fan, Xinqi and Yap, Moi Hoon},
+  title     = {Selective Alignment Transfer for Domain Adaptation in Skin Lesion Analysis},
+  booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+  year      = {2025},
+  publisher = {Springer},
+  series    = {LNCS}
+}
+```
 
