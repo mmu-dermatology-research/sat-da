@@ -1,6 +1,7 @@
 # Full Paper Link
-https://papers.miccai.org/miccai-2025/paper/2099_paper.pdf
-DOI: [10.1007/978-3-032-04978-0_57](https://doi.org/10.1007/978-3-032-04978-0_57)
+# https://papers.miccai.org/miccai-2025/paper/2099_paper.pdf
+
+# DOI: [10.1007/978-3-032-04978-0_57](https://doi.org/10.1007/978-3-032-04978-0_57)
 
 # SAT-DA Architecture
 <img width="612" alt="image" src="https://github.com/user-attachments/assets/18317d8a-d6e1-4d16-bbec-2373cff1fbf8" />
